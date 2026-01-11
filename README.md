@@ -4,24 +4,120 @@ I’m Mahmoud M. Khalifa, a passionate [ Front-End Developer / Full Stack Develo
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahmoud70586466) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoudkhalifaasas@gmail.com) 
+# 👋 Hi there, I'm Mahmoud Khalifa!
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eng-Mahmoud-Khalifa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=eng-Mahmoud-Khalifa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-Mahmoud-Khalifa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Full+Stack+MEA|RN+Developer;Frontend+Specialist;Backend+Engineer;Building+Scalable+Apps)](https://git.io/typing-svg)
+<img src="Assets/Line.gif" width="100%"/> <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eng-Mahmoud-Khalifa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+	
+![Profile Views](https://komarev.com/ghpvc/?username=RiyadOsama&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=000000)
+![Years Badge](https://img.shields.io/badge/Coding%20Journey-1%2B%20Years-58A6FF?style=for-the-badge&labelColor=000000)
+![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-58A6FF?style=for-the-badge&labelColor=000000)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eng-Mahmoud-Khalifa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## <img src="Assets/Hot.png"  height=40> About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=eng-Mahmoud-Khalifa&icon=0&color=0)](https://visitcount.itsvg.in)
+Full Stack MEARN Developer skilled in designing and developing scalable, responsive, and high-performance web applications.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💻 **Full Stack Web Developer** - MEARN Stack Specialist
+- 🎓 **ITI Trainee** - Full Stack Web Development (May 2025 - Jan 2026)
+- 🎓 **Ain Shams University Graduate** - Bachelor of Computer and Information Scince (FCIS ASU)
+- ❤️ **Passionate** about clean code, great UI/UX, and building user-focused solutions
+- ⚡ **Driven by curiosity**, strong communication, teamwork, and problem-solving skills
+
+### 📄 Contact & Links
+
+- 📍 **Address**: Cairo, Egypt
+- 📱 **Phone /Whats app**: +20 1143487770
+- ✉️ **Email**: [mahmoudkhalifaasas@gmail.com](mailto:mahmoudkhalifaasas@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/mahmoud-m-khalifa](https://linkedin.com/mahmoud-m-khalifa)
+
+###
+
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif"  height=40> **Connect With Me** | Let's Build Something Amazing Together
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-m-khalifa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
+  </a>
+  <a href="mailto::mahmoudkhalifaasas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
+  </a>
+</div>
+
+## <img src="Assets/tech.gif"  height=40> Technical Skills & Tools
+
+### 🌐 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery" height="60" alt="languages" />
+</div>
+
+### 🎨 Front-End Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" height="60" alt="frameworks" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind" height="60" alt="styling" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="mui" />
+  <img src="https://cdn.simpleicons.org/radixui/18181B" height="60" alt="radix ui" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" height="60" alt="shadcn ui" />
+</div>
+
+### ⚙️ Back-End Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman" height="60" alt="backend" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/mongoose/880000" height="60" alt="mongoose" />
+</div>
+
+### 🧪 Testing Suite
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest vitest" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="60" alt="jest vitest" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="60" alt="jasmine" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="60" alt="mocha" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/chai/A30706" height="60" alt="chai" />
+</div>
+
+### 🛠️ Development Tools & Practices
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="uiux design" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="60" alt="version control" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/scrumalliance/65AD2B" height="60" alt="agile scrum" />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/pwa/5A0FC8" height="60" alt="pwa" />
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height=30> **GitHub Analytics** - _Data That Tells My Story_
+
+> _Data-driven insights that showcase my development journey_
+
+### 🔍 Profile Overview
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eng-Mahmoud-Khalifa&theme=github_dark&hide_border=true" alt="GitHub Profile Summary"/>
+</div>
+
+### 📊 Activity Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eng-Mahmoud-Khalifa&radius=20&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+## 💭 **Motivation Quote**
+
+<div align="center">
+	
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## </div>
