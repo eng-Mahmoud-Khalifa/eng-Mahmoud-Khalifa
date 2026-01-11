@@ -1,11 +1,9 @@
-# 💫 About Me:
-I’m Mahmoud M. Khalifa, a passionate [ Front-End Developer / Full Stack Developer] who loves building clean, user-focused, and impactful digital solutions.<br><br>With experience in web development and a solid understanding of both design and functionality, I focus on creating responsive, high-performance websites that provide an excellent user experience.<br><br>What I do best:<br><br>Develop and customize websites using React.js, Next, and modern web technologies.<br>
 
+
+# 👋 Hi there, I'm Mahmoud Khalifa!
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahmoud70586466) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoudkhalifaasas@gmail.com) 
-# 👋 Hi there, I'm Mahmoud Khalifa!
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Full+Stack+MEA|RN+Developer;Frontend+Specialist;Backend+Engineer;Building+Scalable+Apps)](https://git.io/typing-svg)
 <img src="Assets/Line.gif" width="100%"/> <br/>
 
