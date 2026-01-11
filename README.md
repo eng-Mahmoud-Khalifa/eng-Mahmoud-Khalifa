@@ -2,8 +2,7 @@
 
 # 👋 Hi there, I'm Mahmoud Khalifa!
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahmoud70586466) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoudkhalifaasas@gmail.com) 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Full+Stack+MEA|RN+Developer;Frontend+Specialist;Backend+Engineer;Building+Scalable+Apps)](https://git.io/typing-svg)
 <img src="Assets/Line.gif" width="100%"/> <br/>
 
@@ -111,6 +110,9 @@ Full Stack MEARN Developer skilled in designing and developing scalable, respons
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eng-Mahmoud-Khalifa&radius=20&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
+
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahmoud70586466) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoudkhalifaasas@gmail.com) 
 
 ## 💭 **Motivation Quote**
 
