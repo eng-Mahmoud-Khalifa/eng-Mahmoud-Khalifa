@@ -20,7 +20,7 @@ Full Stack MEARN Developer skilled in designing and developing scalable, respons
 
 - 💻 **Full Stack Web Developer** - MEARN Stack Specialist
 - 🎓 **ITI Trainee** - Full Stack Web Development (May 2025 - Jan 2026)
-- 🎓 **Ain Shams University Graduate** - Bachelor of Computer and Information Scince (FCIS ASU)
+- 🎓 **Ain Shams University Graduate** - Bachelor of Computer and  Information Science (FCIS ASU)
 - ❤️ **Passionate** about clean code, great UI/UX, and building user-focused solutions
 - ⚡ **Driven by curiosity**, strong communication, teamwork, and problem-solving skills
 
